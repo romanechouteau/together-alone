@@ -1,0 +1,12 @@
+Assets/Plugins/GitHub.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/Intel.RealSense.dll filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/Intel.RealSense.dll.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/freenect filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/freenect.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/realsense2.dylib filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/realsense2.dylib.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/GitHub filter=lfs diff=lfs merge=lfs -text
+Assets/Videos/depth_under_water.bag filter=lfs diff=lfs merge=lfs -text
+Assets/Videos/depth_under_water.bag.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Videos/outdoors.bag filter=lfs diff=lfs merge=lfs -text
+Assets/Videos/outdoors.bag.meta filter=lfs diff=lfs merge=lfs -text
