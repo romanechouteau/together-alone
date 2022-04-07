@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Face C
-  m_Shader: {fileID: -6465566751694194690, guid: 29ab9adcb7a1c4850b678f6923f10b84, type: 3}
+  m_Name: Face B OSC
+  m_Shader: {fileID: -6465566751694194690, guid: fc81e1535819543d6a5c1ce1331da502, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -104,6 +104,7 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _proximity: 0.7274064
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

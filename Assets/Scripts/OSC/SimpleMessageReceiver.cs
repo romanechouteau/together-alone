@@ -29,8 +29,8 @@ namespace extOSC.CUSTOM
 		private void ReceivedMessage(OSCMessage message)
 		{
 			// Debug.LogFormat("Received: {0}", message);
-			float x = message.Values[0].FloatValue;
-			float y = message.Values[1].FloatValue;
+			float x = (message.Values[0].FloatValue - 0.5f) * 2f;
+			float y = (message.Values[1].FloatValue - 0.5f) * 2f;
 			PositionManager.Instance.SetPosition(new Vector2(x,y));
 		}
 
